@@ -1,17 +1,10 @@
 ## Hi there 👋 I am Tejas Yogesh
- 
-
-<!--
-**TejasYogesh/TejasYogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+# I am a passionate web developer with expertise in React.js, Angular, React Native, and TypeScript. I thrive on building scalable applications and crafting seamless user experiences.
+🛠️ Tech Stack
+- Frontend: React.js, Angular, React Native
+- Backend: Node.js, Firebase
+- Languages: TypeScript, JavaScript
+- Version Control: Git & GitHub
+💡 Contributions & Experience
+I actively contribute to Meriise Foundation (meriise.org), where I work on impactful projects that enhance digital experiences and efficiency.
